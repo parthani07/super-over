@@ -1,0 +1,20 @@
+/* Write your code here. */
+.bg {
+  background-color: black;
+  background-size: cover;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto";
+}
+
+.heading {
+  color: white;
+}
+
+.img {
+  width: 20vw;
+}
